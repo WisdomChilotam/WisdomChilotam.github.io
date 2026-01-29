@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Data Science and Engineering
+email: wisdomprosper770@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a data-driven problem solver with a strong foundation in data engineering and data science, intentionally evolving into Machine Learning Engineering. I design reliable data pipelines, transform raw data into meaningful insights, and build scalable systems that power intelligent decision-making. My work sits at the intersection of data, software, and applied machine learning—where models are not just trained, but deployed, monitored, and improved in real-world environments.
+
+I am deeply interested in turning complex datasets into production-ready solutions using Python, SQL, cloud-native tools, and modern ML frameworks. Beyond technical execution, I value clarity, reproducibility, and impact, ensuring every model or pipeline delivers measurable value. This space documents my learning journey, projects, experiments, and engineering mindset as I transition fully into Machine Learning Engineering, building systems that learn, adapt, and scale with purpose.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Wisdom Ezem
+github_username:  Wisdom Ezem
 
 # Build settings
 theme: minima
