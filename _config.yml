@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am a data-driven problem solver with a strong foundation in data engineering and data science, intentionally evolving into Machine Learning Engineering. I design reliable data pipelines, transform raw data into meaningful insights, and build scalable systems that power intelligent decision-making. My work sits at the intersection of data, software, and applied machine learning—where models are not just trained, but deployed, monitored, and improved in real-world environments.
 
 I am deeply interested in turning complex datasets into production-ready solutions using Python, SQL, cloud-native tools, and modern ML frameworks. Beyond technical execution, I value clarity, reproducibility, and impact, ensuring every model or pipeline delivers measurable value. This space documents my learning journey, projects, experiments, and engineering mindset as I transition fully into Machine Learning Engineering, building systems that learn, adapt, and scale with purpose.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ./github.io # the subpath of your site, e.g. /blog
+url: http://Wisdomchilotam.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Wisdom Ezem
 github_username:  Wisdom Ezem
 
